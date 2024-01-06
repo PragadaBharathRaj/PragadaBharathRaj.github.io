@@ -21,7 +21,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://bharathrajpragada.github.io/)**
+To view a live example, **[click here](https://PragadaBharathRaj.github.io/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/dep
